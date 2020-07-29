@@ -2,7 +2,7 @@
 
 <h3> 🐱‍💻 About me </h3>
 
-- 🇵🇱 17 years old from Poland
+- ✈️ 17 years old from Poland
 - 🎓 Studying IT and programming on high school
 - 💻 Like to fight with Android source
 - 📙 Learning JavaScript, Python and C
@@ -17,4 +17,4 @@
 
 <br/>
 
-⭐️ <p align="left"><img src="https://komarev.com/ghpvc/?username=HSgod" alt="HSgod"></p>
+⭐️ <img src="https://komarev.com/ghpvc/?username=HSgod" alt="HSgod">
