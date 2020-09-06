@@ -1,16 +1,11 @@
-<h1 align="center">Hey there! 👋</h1>
-
-<h3> 🐱‍💻 About me </h3>
-
-- ✈️ 17 years old from Poland
-- 🎓 Studying IT and programming on high school
-- 💻 Like to fight with Android source
-- 📙 Learning JavaScript, Python and C
-
-<h3> 🔎 Find me </h3>
-
-<a href="https://t.me/HSgod02"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-HSgod02__-blue?style=flat-square&logo=telegram"></a>
-
-<br/>
-
-⭐️ <img src="https://komarev.com/ghpvc/?username=HSgod" alt="HSgod">
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+<p align="center"><strong>Loading stats...</strong></p>
+<p align="center">If stats aren't loading, check GitHub servers status.</p>
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
+</p>
+<p></p>
+<p></p>
+</p>
